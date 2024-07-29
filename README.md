@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prasoon31Pandey
 - 👀 I’m a Software Developer 
-- 🌱 I’m currently learning  Pre - final year Student 
-- 💞️ I’m looking to collaborate on .
-- 📫 How to reach me ...itspandey3131@gmail.com
+- 🌱 I’m currently learning  Dsa and developement 
+- 💞️ I’m looking to collaborate on  
+- 📫 How to reach me ...  gmail - itspandey3131@gmail.com
 - linkedin -- 
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I am a engineer
