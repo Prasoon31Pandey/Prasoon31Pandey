@@ -4,7 +4,7 @@
 
 I'm a passionate Software Developer with a strong background in **Java**, **MERN Stack**, and **Full Stack Development**. I enjoy building robust, scalable applications and continuously learning new technologies to stay at the forefront of the industry.
 
-![Profile Banner](C:\Users\kabir\Downloads\resume\PASSPORT SIZE PIC.jpg <!-- Replace with your actual banner image -->
+![Profile Banner](https://prasoon31pandey.github.io/Prasoon.github.io/) <!-- Replace with your actual banner image -->
 
 - 💻 **Languages & Technologies**:
   - **Java**: Expertise in backend development with frameworks like Spring Boot.
