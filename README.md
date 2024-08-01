@@ -49,7 +49,7 @@ Feel free to connect with me on:
 
 ## GitHub Stats
 
-!(![Prasoon31Pandey's Stats](https://github-readme-stats.vercel.app/api?username=Prasoon31Pandey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
+[Prasoon31Pandey's Stats](https://github-readme-stats.vercel.app/api?username=Prasoon31Pandey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🌱 Current Learning
 
