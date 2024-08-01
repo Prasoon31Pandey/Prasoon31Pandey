@@ -43,13 +43,13 @@ A brief description of what this project does and the technologies used.
 
 Feel free to connect with me on:
 
-- [LinkedIn](your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/prasoon-pandey-3aa746254/)
 - [Twitter](your-twitter-handle)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:your-email@itspandey3131@gmail.com)
 
 ## GitHub Stats
 
-![Prasoon](https://copilot.microsoft.com/images/create/professional-avatar/1-66abc83537a8470488f73f14f0d0756d?id=hLF7Gjra%2bZoaiWtAZf33eA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.MnWWQ7SRqetTMvszNT5O&lng=en-US&ineditshare=1)
+!(![Prasoon31Pandey's Stats](https://github-readme-stats.vercel.app/api?username=Prasoon31Pandey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
 
 ## 🌱 Current Learning
 
