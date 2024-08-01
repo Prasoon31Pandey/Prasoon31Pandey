@@ -4,7 +4,7 @@
 
 I'm a passionate Software Developer with a strong background in **Java**, **MERN Stack**, and **Full Stack Development**. I enjoy building robust, scalable applications and continuously learning new technologies to stay at the forefront of the industry.
 
-![Profile Banner](https://copilot.microsoft.com/images/create/professional-avatar/1-66abc83537a8470488f73f14f0d0756d?id=hLF7Gjra%2bZoaiWtAZf33eA%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG4.MnWWQ7SRqetTMvszNT5O&lng=en-US&ineditshare=1) <!-- Replace with your actual banner image -->
+![Profile Banner](C:\Users\kabir\Downloads\resume\PASSPORT SIZE PIC.jpg <!-- Replace with your actual banner image -->
 
 - 💻 **Languages & Technologies**:
   - **Java**: Expertise in backend development with frameworks like Spring Boot.
