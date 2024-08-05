@@ -4,7 +4,7 @@
 
 I'm a passionate Software Developer with a strong background in **Java**, **MERN Stack**, and **Full Stack Development**. I enjoy building robust, scalable applications and continuously learning new technologies to stay at the forefront of the industry.
 
-![Profile Banner](https://prasoon31pandey.github.io/Prasoon.github.io/) <!-- Replace with your actual banner image -->
+![Profile Banner](https://i.pinimg.com/originals/50/de/0e/50de0eebb7bb31620f3a8cf78d3c9267.gif) <!-- Replace with your actual banner image -->
 
 - 💻 **Languages & Technologies**:
   - **Java**: Expertise in backend development with frameworks like Spring Boot.
@@ -20,15 +20,15 @@ I'm a passionate Software Developer with a strong background in **Java**, **MERN
 ## Projects
 
 ### [Stock price predication ](https://github.com/Prasoon31Pandey/stock.github.io)
-![Project 1 Screenshot](https://www.google.com/imgres?q=stock%20price%20prediction&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1240%2F1*lT08eHnMJZWi61_rb4WA9w.gif&imgrefurl=https%3A%2F%2Fmedium.com%2F%40Nikhilkohli1%2Fextracting-features-for-stock-prediction-streamlit-based-application-a97afc55d926&docid=ju_lznc8jIyRkM&tbnid=B8MKzNQDAmTaaM&vet=12ahUKEwjDzOTPrdSHAxX_iFYBHQn9Af0QM3oECGYQAA..i&w=620&h=349&hcb=2&ved=2ahUKEwjDzOTPrdSHAxX_iFYBHQn9Af0QM3oECGYQAA) <!-- Replace with actual project image -->
+![Project 1 Screenshot](https://www.simplilearn.com/ice9/free_resources_article_thumb/StockMarket.PNG) <!-- Replace with actual project image -->
 A brief description of what this project does and the technologies used.
 
 ### [Ecommerce Website ](https://github.com/Prasoon31Pandey/stock.github.io)
-![Project 2 Screenshot](https://www.google.com/imgres?q=ecommerce%20website&imgurl=https%3A%2F%2Fwww.oakyweb.com%2Fimages%2Fdc6df7e28e51cb7dcec3bdda8b502f7e.gif&imgrefurl=https%3A%2F%2Fwww.oakyweb.com%2Fe-commerce-solution.html&docid=2eAR5R0GItf21M&tbnid=OxRE-aObemSnEM&vet=12ahUKEwj14qycrdSHAxU2rlYBHd0mAl8QM3oECFIQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwj14qycrdSHAxU2rlYBHd0mAl8QM3oECFIQAA) <!-- Replace with actual project image -->
+![Project 2 Screenshot](https://colorlib.com/wp/wp-content/uploads/sites/2/ecommerce-website-builder.jpg) <!-- Replace with actual project image -->
 A brief description of what this project does and the technologies used.
 
 ### [News Website ](https://github.com/Prasoon31Pandey/new.github.io)
-![Project 3 Screenshot](https://www.google.com/imgres?q=news%20website&imgurl=https%3A%2F%2Fresources.finalsite.net%2Fimages%2Ff_auto%2Cq_auto%2Ct_image_size_2%2Fv1589379674%2Ffinalsite%2Fzffctipriysftkgtfoma%2Fwhitgift-newspage.gif&imgrefurl=https%3A%2F%2Fwww.finalsite.com%2Fblog%2Fp%2F~board%2Fb%2Fpost%2Fenhance-school-websites-news&docid=ioHuhlKsxLrzEM&tbnid=97ad4jwnqIj_-M&vet=12ahUKEwjt5MfdrNSHAxV_R2wGHTWbAQIQM3oECB0QAA..i&w=512&h=274&hcb=2&ved=2ahUKEwjt5MfdrNSHAxV_R2wGHTWbAQIQM3oECB0QAA) <!-- Replace with actual project image -->
+![Project 3 Screenshot](https://themewagon.com/wp-content/uploads/2020/12/news.jpg) <!-- Replace with actual project image -->
 A brief description of what this project does and the technologies used.
 
 ## Skills
