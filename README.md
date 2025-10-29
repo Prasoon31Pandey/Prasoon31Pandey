@@ -1,4 +1,4 @@
-# Hello, I'm [Prasoon Pandey👋
+# Hello, I'm Prasoon Pandey👋
 
 ## About Me
 
