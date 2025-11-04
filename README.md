@@ -113,5 +113,6 @@ Feel free to tweak this template to suit your style and preferences!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n4si&show_icons=true&locale=en&layout=compact" alt="n4si" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n4si&show_icons=true&locale=en" alt="n4si" /></p>
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/USERNAME/REPO_NAME&label=Stars&query=$.stargazers_count)
+
 
