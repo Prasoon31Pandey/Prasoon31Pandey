@@ -113,6 +113,20 @@ Feel free to tweak this template to suit your style and preferences!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=n4si&show_icons=true&locale=en&layout=compact" alt="n4si" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=n4si&show_icons=true&locale=en" alt="n4si" /></p>
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/USERNAME/REPO_NAME&label=Stars&query=$.stargazers_count)
 
 
+### 🏅 Badges & Achievements
+
+<!-- SailPoint Badge -->
+<a href="https://community.sailpoint.com/t5/user/viewprofilepage/user-id/139237" target="_blank">
+  <img src="https://img.shields.io/badge/SailPoint-Profile-blue?style=for-the-badge" alt="SailPoint Profile"/>
+</a>
+
+<!-- Holopin Badges -->
+<a href="https://www.holopin.io/userbadge/cmhktp4yk0001k304ogsmjbo1" target="_blank">
+  <img src="https://www.holopin.io/api/userbadge/cmhktp4yk0001k304ogsmjbo1" width="100px" alt="Holopin Badge 1"/>
+</a>
+
+<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgdidjhr0045l604efunlhs9" target="_blank">
+  <img src="https://www.holopin.io/api/userbadge/cmgdidjhr0045l604efunlhs9" width="100px" alt="Holopin Badge 2"/>
+</a>
