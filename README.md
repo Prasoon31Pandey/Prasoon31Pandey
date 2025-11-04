@@ -124,9 +124,11 @@ Feel free to tweak this template to suit your style and preferences!
 
 <!-- Holopin Badges -->
 <a href="https://www.holopin.io/userbadge/cmhktp4yk0001k304ogsmjbo1" target="_blank">
-  <img src="https://www.holopin.io/api/userbadge/cmhktp4yk0001k304ogsmjbo1" width="100px" alt="Holopin Badge 1"/>
+  <img src="<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/287e3e9e-257c-4df4-8999-cd6ad9fb0db4" />
+"/>
 </a>
 
 <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgdidjhr0045l604efunlhs9" target="_blank">
-  <img src="https://www.holopin.io/api/userbadge/cmgdidjhr0045l604efunlhs9" width="100px" alt="Holopin Badge 2"/>
+  <img src="<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/666e5188-f46d-43d8-9ecc-4b15b3b57310" />
+"/>
 </a>
